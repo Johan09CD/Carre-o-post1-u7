@@ -1,4 +1,4 @@
-package com.universidad.productosweb.model;
+package com.universidad.productos_web.model;
 
 /**
  * Modelo que representa un producto en el catálogo.
