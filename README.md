@@ -19,8 +19,7 @@ Proyecto correspondiente a la Unidad 7 - Post-Contenido 1 de Programación Web.
 
 **1. Clonar el repositorio:**
 ```bash
-git clone https://github.com/[tu-usuario]/apellido-post1-u7.git
-cd apellido-post1-u7
+git clone https://github.com/Johan09CD/Carre-o-post1-u7
 ```
 
 **2. Ejecutar la aplicación:**
