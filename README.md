@@ -15,26 +15,6 @@ Proyecto correspondiente a la Unidad 7 - Post-Contenido 1 de Programación Web.
 - Spring Boot DevTools
 
 ---
-
-## Estructura del proyecto
-productos-web/
-├── src/main/java/com/universidad/productosweb/
-│   ├── controller/
-│   │   └── ProductoController.java   # Maneja las rutas HTTP
-│   ├── model/
-│   │   └── Producto.java             # Clase modelo con atributos del producto
-│   ├── service/
-│   │   └── ProductoService.java      # Lógica de negocio y persistencia en memoria
-│   └── ProductosWebApplication.java  # Clase principal
-├── src/main/resources/
-│   ├── templates/productos/
-│   │   ├── lista.html                # Vista con tabla de productos
-│   │   └── formulario.html           # Vista para crear y editar
-│   └── application.properties       # Configuración del servidor
-└── pom.xml
-
----
-
 ## Instrucciones de ejecución
 
 **1. Clonar el repositorio:**
